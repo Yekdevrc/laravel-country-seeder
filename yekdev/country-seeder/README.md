@@ -1,7 +1,7 @@
 # Yekdev Country Seeder
 
 A reusable Laravel package to **seed countries** into your database with **auto migration and seeding**.  
-Works for Laravel 9+ / 10.
+Works for Laravel 9+.
 
 ---
 
