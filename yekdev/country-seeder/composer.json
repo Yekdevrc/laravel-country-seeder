@@ -1,0 +1,18 @@
+{
+    "name": "yekdev/country-seeder",
+    "description": "country seeder for Laravel",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Yekdev\\CountrySeeder\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Yekdev\\CountrySeeder\\CountrySeederServiceProvider"
+            ]
+        }
+    }
+}
