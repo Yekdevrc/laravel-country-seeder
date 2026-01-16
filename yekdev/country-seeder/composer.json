@@ -1,6 +1,6 @@
 {
-    "name": "yekdev/country-seeder",
-    "description": "country seeder for Laravel",
+    "name": "yekdev/laravel-country-seeder",
+    "description": "A reusable Laravel package to seed countries with auto migration and seeding",
     "type": "library",
     "license": "MIT",
     "autoload": {
@@ -14,5 +14,7 @@
                 "Yekdev\\CountrySeeder\\CountrySeederServiceProvider"
             ]
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
